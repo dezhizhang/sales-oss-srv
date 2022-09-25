@@ -14,10 +14,10 @@ func handleError(err error) {
 
 func main() {
 
-	endpoint := "oss-cn-hangzhou.aliyuncs.com"
+	endpoint := ""
 	// 阿里云账号AccessKey拥有所有API的访问权限，风险很高。强烈建议您创建并使用RAM用户进行API访问或日常运维，请登录RAM控制台创建RAM用户。
-	accessKeyId := "LTAI5t6mBexkTfvNRCQ8sTAG"
-	accessKeySecret := "F3QjtqJf0IS0i7g9y7qoJrWCufGB62"
+	accessKeyId := ""
+	accessKeySecret := ""
 	// yourBucketName填写存储空间名称。
 	bucketName := "tugua"
 	// yourObjectName填写Object完整路径，完整路径不包含Bucket名称。
