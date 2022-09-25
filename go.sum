@@ -1,5 +1,7 @@
 github.com/aliyun/aliyun-oss-go-sdk v2.2.4+incompatible h1:cD1bK/FmYTpL+r5i9lQ9EU6ScAjA173EVsii7gAc6SQ=
 github.com/aliyun/aliyun-oss-go-sdk v2.2.4+incompatible/go.mod h1:T/Aws4fEfogEE9v+HPhhw+CntffsBHJ8nXQCwKr0/g8=
+github.com/aliyun/aliyun-oss-go-sdk v2.2.5+incompatible h1:QoRMR0TCctLDqBCMyOu1eXdZyMw3F7uGA9qPn2J4+R8=
+github.com/aliyun/aliyun-oss-go-sdk v2.2.5+incompatible/go.mod h1:T/Aws4fEfogEE9v+HPhhw+CntffsBHJ8nXQCwKr0/g8=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
