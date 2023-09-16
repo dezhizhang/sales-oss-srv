@@ -6,7 +6,6 @@ import (
 	"os"
 )
 
-//
 func handleError(err error) {
 	fmt.Println("Error:", err)
 	os.Exit(-1)
@@ -19,7 +18,8 @@ func main() {
 	accessKeyId := ""
 	accessKeySecret := ""
 	// yourBucketName填写存储空间名称。
-	bucketName := "tugua"
+
+	bucketName := "xiaozhicloud"
 	// yourObjectName填写Object完整路径，完整路径不包含Bucket名称。
 	objectName := "avator.png"
 	// yourLocalFileName填写本地文件的完整路径。
